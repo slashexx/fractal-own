@@ -1,0 +1,4 @@
+.env
+myenv/
+firebaseConfig.json
+tests/firebaseConfig.json   
